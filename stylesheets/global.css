@@ -421,6 +421,10 @@ ul#headerLowerNavMenu  {
     margin: 0;
 }
 
+.navlist2 li {
+    font-size: 0.75em; 
+}
+
 .navlist2 li a:link, .navlist2 li a:visited, .navlist2 li a:active {
     color: #22496F;
     text-decoration: none;
